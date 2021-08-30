@@ -1,0 +1,8 @@
+prefix=/home/petern25/catkin_ws/devel/.private/rosbridge_server
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.9.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

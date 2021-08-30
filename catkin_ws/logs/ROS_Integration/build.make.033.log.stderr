@@ -1,0 +1,8 @@
+[01m[K/home/petern25/catkin_ws/src/ROS_Integration/src/player_position_listener.cpp:[m[K In function ‘[01m[Kvoid chatterCallback(const ConstPtr&)[m[K’:
+[01m[K/home/petern25/catkin_ws/src/ROS_Integration/src/player_position_listener.cpp:9:33:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst ConstPtr {aka const class boost::shared_ptr<const geometry_msgs::Vector3_<std::allocator<void> > >}[m[K’ has no member named ‘[01m[Kx[m[K’; did you mean ‘[01m[Kpx[m[K’?
+   std::cout << "I heard" << msg.[01;31m[Kx[m[K << std::endl;;
+                                 [01;31m[K^[m[K
+                                 [32m[Kpx[m[K
+make[2]: *** [CMakeFiles/player_position_listener.dir/src/player_position_listener.cpp.o] Error 1
+make[1]: *** [CMakeFiles/player_position_listener.dir/all] Error 2
+make: *** [all] Error 2

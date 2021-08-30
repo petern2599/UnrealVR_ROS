@@ -1,0 +1,8 @@
+prefix=/home/petern25/catkin_ws/install
+
+Name: ROS_Integration
+Description: Description of ROS_Integration
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

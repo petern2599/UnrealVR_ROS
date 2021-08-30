@@ -1,0 +1,1 @@
+/home/petern25/catkin_ws/devel/.private/ROS_Integration/share/roseus/ros/ROS_Integration/manifest.l

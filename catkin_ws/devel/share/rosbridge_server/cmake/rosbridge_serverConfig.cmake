@@ -1,0 +1,1 @@
+/home/petern25/catkin_ws/devel/.private/rosbridge_server/share/rosbridge_server/cmake/rosbridge_serverConfig.cmake

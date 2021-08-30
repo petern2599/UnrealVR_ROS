@@ -1,0 +1,19 @@
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[ 40%] Built target talker
+[ 60%] [32m[1mLinking CXX executable /home/petern25/catkin_ws/devel/.private/ROS_Integration/lib/ROS_Integration/listener[0m
+[ 80%] Built target ROS_Integration_generate_messages_lisp
+[ 80%] Built target ROS_Integration_generate_messages_cpp
+[ 80%] Built target ROS_Integration_generate_messages_eus
+[ 80%] Built target ROS_Integration_generate_messages_nodejs
+[ 80%] Built target ROS_Integration_generate_messages_py
+[ 80%] Built target ROS_Integration_generate_messages
+[100%] Built target listener

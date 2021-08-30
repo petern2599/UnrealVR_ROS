@@ -1,0 +1,1 @@
+/home/petern25/catkin_ws/devel/.private/rosapi/share/rosapi/cmake/rosapi-msg-extras.cmake

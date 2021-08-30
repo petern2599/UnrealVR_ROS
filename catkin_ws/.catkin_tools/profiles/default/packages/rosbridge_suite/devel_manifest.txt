@@ -1,0 +1,2 @@
+rosbridge_suite/rosbridge_suite
+/home/petern25/catkin_ws/devel/.private/rosbridge_suite/cmake.lock /home/petern25/catkin_ws/devel/./cmake.lock

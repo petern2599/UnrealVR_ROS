@@ -1,0 +1,4 @@
+make[2]: *** No rule to make target '/home/petern25/catkin_ws/src/ROS_Integration/src/player_position_listener.cpp', needed by 'CMakeFiles/player_position_listener.dir/src/player_position_listener.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/player_position_listener.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

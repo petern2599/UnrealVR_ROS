@@ -1,0 +1,1 @@
+/home/petern25/catkin_ws/devel/.private/rosbridge_msgs/share/roseus/ros/rosbridge_msgs/manifest.l

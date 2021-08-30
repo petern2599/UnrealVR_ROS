@@ -1,0 +1,1 @@
+/home/petern25/catkin_ws/devel/.private/rosapi/lib/python2.7/dist-packages/rosapi/msg/__init__.py

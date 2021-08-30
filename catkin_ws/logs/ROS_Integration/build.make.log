@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target sub_test[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[ 28%] Built target listener
+[ 42%] [32mBuilding CXX object CMakeFiles/sub_test.dir/src/sub_test.cpp.o[0m
+[ 71%] Built target talker
+[ 71%] Built target geometry_msgs_generate_messages_py
+[ 71%] Built target std_msgs_generate_messages_nodejs
+[ 71%] Built target std_msgs_generate_messages_py
+[ 71%] Built target geometry_msgs_generate_messages_lisp
+[ 71%] Built target geometry_msgs_generate_messages_nodejs
+[ 71%] Built target std_msgs_generate_messages_lisp
+[ 71%] Built target geometry_msgs_generate_messages_cpp
+[ 71%] Built target std_msgs_generate_messages_cpp
+[ 71%] Built target ROS_Integration_generate_messages_py
+[ 85%] Built target ROS_Integration_generate_messages_eus
+[ 85%] Built target ROS_Integration_generate_messages_nodejs
+[ 85%] Built target ROS_Integration_generate_messages_lisp
+[ 85%] Built target ROS_Integration_generate_messages_cpp
+[ 85%] Built target ROS_Integration_generate_messages
+[100%] [32m[1mLinking CXX executable /home/petern25/catkin_ws/devel/.private/ROS_Integration/lib/ROS_Integration/sub_test[0m
+[100%] Built target sub_test
