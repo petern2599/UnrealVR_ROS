@@ -16,7 +16,8 @@ $source ./devel/setup.bash<br/>
 The reason for this is because ROS Integration is not compatible with ROSBridge's new transmission method. Which is why ROSBridge is downgraded to 0.9.0, which is compatible with the current version of ROSIntegration.
 
 ##Using ROSIntegration with UE4
-When using ROSIntegration, the sequence is the following...<br/>
+When using ROSIntegration, the sequence is the following...
+
 1.)Initialize ROSBridge server in bson_only_mode<br/>
 2.)Run any ROS scripts<br/>
 3.)Insert C++ actors that is used for ROS into environment in UE4<br/>
