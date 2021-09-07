@@ -32,5 +32,7 @@ If you do not see the ROS topic, make sure to check the following:
 1.) Check if you can compile and build your C++ actors from UE4<br/>
 2.) ROSrun you scripts from your workspace<br/>
 3.) Use ROS info [/topic] to check if the correct nodes are used
+### Will ROSIntegration work for nodes when its actor is spawned during runtime?
+If the actor spawns during runtime, it WILL NOT WORK. For any publishing/subscribing actors that are going to be used, the actors must be spawned before running project in UE4.
 
 
