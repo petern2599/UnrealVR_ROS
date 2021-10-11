@@ -31,7 +31,7 @@ If you are experiencing large FPS drops, make sure that you are connected to ROS
 ### I am not seeing the ROS topic when I echo it out in Linux terminal.
 If you do not see the ROS topic, make sure to check the following:<br/>
 1.) Check if you can compile and build your C++ actors from UE4<br/>
-2.) ROSrun you scripts from your workspace<br/>
+2.) ROSRun your scripts from your workspace<br/>
 3.) Use ROS info [/topic] to check if the correct nodes are used<br/>
 ### Will ROSIntegration work for nodes when its actor is spawned during runtime?
 If the actor spawns during runtime and the rostopic/rosnode is initialize during BeginPlay, it WILL NOT WORK. For any publishing/subscribing actors that are going to be used, the actors must be spawned before running project in UE4. Unless it initializes the rostopic/rosnode during runtime. 
